@@ -1,0 +1,27 @@
+body{
+  max-width: 600px;
+  margin:0 auto;
+}
+
+.one{
+  background-color: #8cb369;
+  border: 2px solid #f4a259;
+  padding: 35px;
+  
+  
+}
+.two{
+background-color: #d9ae94;
+border: 2px solid #FFEE8c;
+margin: 9px;
+padding: 2px;
+  margin-bottom: 48px;
+}
+
+.three{
+  background-color: #5b8e7d;
+  border: 2px solid #d08c60;
+padding: 30px;
+margin-left: auto;
+width: 200px;
+}
